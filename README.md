@@ -38,7 +38,7 @@ We focus on:
 
 
 
-\## 🚀 How to Use
+## 🚀 How to Use
 
 
 
@@ -54,7 +54,7 @@ We focus on:
 
 3. Download the file.
 
-4. Place it in your project folder (or directly in `.gemini`).
+4. Place it in your project folder (or directly in `.gemini/config`).
 
 5. Ask your agent to follow it as an example (e.g., “Act like example.md”).
 
@@ -66,7 +66,7 @@ We focus on:
 
 
 
-3. Click the \*\*RAW\*\* button on the file in GitHub.
+3. Click the **RAW** button on the file in GitHub.
 
 4. Copy the URL.
 
