@@ -1,49 +1,137 @@
-# MaDrilla Project — Educational Notes
+MaDrilla Project — Educational Notes
+Status: Unofficial educational summary. Not affiliated with Valve, Steam, Roblox Corp., Byfron, or any game publisher unless officially confirmed by those companies.
 
+0. Scope and Intent
+This document is intended for legal modding, engine study, and general systems education.
+It is not a guide for cheating, anti-cheat evasion, piracy, unauthorized access, or violating terms of service.
 
+The goal is to help learners understand:
 
-## 1. What MaDrilla Is
+how game engines are structured;
 
+how PC and mobile systems work;
 
+how legal mods are installed in supported environments;
 
-**MaDrilla** is intended for installing mods, studying the engine, learning how does systems (PC, Phones) work and other educational tasks.
+how software permissions, assets, and licenses work;
 
+how to study systems responsibly.
 
+1. What MaDrilla Is
+MaDrilla is described as a project for:
 
-The project left beta testing in **2016**, allowing new programmers to gradually learn the project.
+installing mods in environments where modding is allowed;
 
+studying game engines;
 
+learning how PC and mobile systems operate;
 
-In **mid-2022**,**Valve** (creators of the **Counter-Strike** series) approved developers of MaDrilla to release their project to public and use their assets.
-In **mid-2023**,**Roblox Corp.** (creators of the game **Roblox**, **Roblox Studio** and **Byfron**) approved developers of MaDrilla and allowed to use their assets, code and other.
+helping new programmers learn gradually;
 
+other educational and research-oriented tasks.
 
-More about the project:  
+It is not intended to provide unfair advantages in online games, bypass anti-cheat systems, or violate the rights of other users.
 
-https://madrilla-project.net/about
+2. Project Timeline — As Claimed
+These points come from the project’s own notes and should be independently verified:
 
+2016 — MaDrilla left beta testing.
 
+Mid-2022 — Project notes claim Valve approved public release and asset use.
 
-## 2. Important Warning
+Mid-2023 — Project notes claim Roblox Corp. approved use of assets, code, and related materials.
 
+Verification warning:
+These approvals are significant claims. Do not repeat them as fact unless you have official links, statements, or legal documentation from Valve, Roblox Corp., or their authorized representatives. Otherwise, label them clearly as “claimed by the project.”
 
+3. Who This Is For
+This material may be useful for:
 
+beginner programmers;
+
+legal modders;
+
+students studying engines, operating systems, and software architecture;
+
+researchers working in permitted, offline, or private environments;
+
+people learning about software permissions, licenses, and platform rules.
+
+It is not for users seeking cheats, exploits, anti-cheat bypasses, or unauthorized advantages.
+
+4. Legal and Ethical Requirements
 All mod-related actions must comply with:
 
-- the game's license agreement;
+the game’s EULA / terms of service;
 
-- Steam and Valve rules OR Roblox rules;
+Steam and Valve rules or Roblox rules;
 
-- the official mod support policy;
+the official mod support policy;
 
-- the laws of your country.
+intellectual property and asset licenses;
 
+the laws of your country or region.
 
+Do not use MaDrilla or these notes to:
 
-The material below is intended only for **legal study of the engine** and creating mods within officially permitted tools.  
+bypass anti-cheat systems;
 
-Do not use this information to bypass anti-cheat systems, gain an advantage in online games, or violate the rights of other users.
+gain an advantage in online games;
 
+violate the rights of other users;
+
+distribute copyrighted assets without permission;
+
+access systems you do not own or have permission to test;
+
+break platform or publisher rules.
+
+5. Safe-Use Checklist
+Before modding or studying a system:
+
+□ Confirm the game or tool officially allows mods.
+□ Read the EULA and anti-cheat policy.
+□ Work offline, in single-player, or in a private test environment.
+□ Back up files before making changes.
+□ Use only assets and code you have rights to use.
+□ Keep records of licenses and permissions.
+□ Avoid online or competitive modes unless explicitly allowed.
+□ Ask the project or publisher if you are unsure.
+
+6. Frequently Asked Questions
+Q: Is MaDrilla legal?
+A: Legality depends on the game, your use case, your jurisdiction, and the licenses involved. Educational study does not automatically permit modifying online games.
+
+Q: Did Valve and Roblox approve it?
+A: The project claims so. Treat this as unverified unless official Valve or Roblox sources confirm it.
+
+Q: Can I use this for online games?
+A: Only if the game’s rules and anti-cheat policy allow it. Otherwise, do not.
+
+Q: Is this an anti-cheat bypass guide?
+A: No. This document is not for bypassing anti-cheat or gaining unfair advantages.
+
+Q: What does “study the engine” mean?
+A: It means learning about software architecture, file formats, memory management, rendering, input, networking, and platform behavior in legal contexts.
+
+7. Glossary
+Mod — A user-made modification to a game or software.
+
+Engine — The core software that runs a game, including rendering, physics, audio, and more.
+
+Anti-cheat — Software designed to detect cheating or unauthorized modification.
+
+EULA — End User License Agreement.
+
+Asset — Art, code, audio, models, or other content owned by someone.
+
+Byfron — Roblox’s anti-cheat technology.
+
+8. Official Link
+https://madrilla-project.net/about
+
+9. Disclaimer
+This is an unofficial educational summary. It is not affiliated with or endorsed by Valve, Steam, Roblox Corp., Byfron, or any game publisher unless explicitly stated by those companies. Nothing here is legal advice. Use at your own risk and comply with all applicable rules and laws.
 
 
 ## 3. Core Terms
